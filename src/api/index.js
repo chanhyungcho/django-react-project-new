@@ -1,0 +1,1 @@
+export {default as fashion} from 'api/dlearn/components/Fashion'
